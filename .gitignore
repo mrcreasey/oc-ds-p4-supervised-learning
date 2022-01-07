@@ -1,6 +1,8 @@
 # Project specific .gitignore
 .idea/
 
+# temporary disable output images
+.images/ 
 
 # -----------------------------------------
 # Standard python .gitignore below
