@@ -4,6 +4,6 @@
     "MD025": false,
     "MD036": false,
     "MD004": {"style": "dash"},
-    "MD041": false,
-    "MD033": { "allowed_elements": ["a","style","p", "b", "br"] }
+    "MD041": true,
+    "MD033": { "allowed_elements": ["a","img","style","p", "b", "br"] }
 }
