@@ -18,7 +18,7 @@ A partir des [relevés déjà réalisés en 2015 et 2016](https://www.kaggle.com
 
 ## Plan du projet
 
-Le plan de ce projet ce trouve en plus de détail dans le document project_plan.md.
+Le plan de ce projet ce trouve en plus de détail dans le document [project_plan.md](./project_plan.md).
 
 ## Livrables de ce projet
 
