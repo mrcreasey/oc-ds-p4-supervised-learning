@@ -22,7 +22,7 @@ Le plan de ce projet ce trouve en plus de détail dans le document [project_plan
 
 ## Livrables de ce projet
 
-### Pélec_01_notebook.ipynb
+### [Pélec_01_notebook.ipynb](./Pélec_01_notebook.ipynb)
 
 - Compréhension du problème
 - Import et nettoyage des données
