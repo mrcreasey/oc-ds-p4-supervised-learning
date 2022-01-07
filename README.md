@@ -28,7 +28,7 @@ Le plan de ce projet ce trouve en plus de détail dans le document [project_plan
 - Import et nettoyage des données
 - Analyse exploratoire
 
-### Pélec_02_code.ipynb
+### [Pélec_02_code.ipynb](./Pélec_02_code.ipynb)
 
 - Feature engineering
 - Création de données d'entrainement et test
