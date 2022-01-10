@@ -2,7 +2,7 @@
 .idea/
 
 # temporary disable output images
-.images/ 
+/images/ 
 
 # -----------------------------------------
 # Standard python .gitignore below
