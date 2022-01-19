@@ -1,0 +1,114 @@
+BuildingType,PrimaryPropertyType,LargestPropertyUseType,count,mean
+NonResidential,Other,Data Center,4,158452418.5
+NonResidential,Hospital,Hospital (General Medical & Surgical),18,137649762.25694445
+NonResidential,Other,Convention Center,1,77164568.0
+Campus,University,College/University,5,57157340.7
+Campus,Large Office,Office,2,52870238.0
+Campus,College/University,College/University,5,51547681.6
+Campus,Other,Other,8,49899276.8125
+NonResidential,Other,Courthouse,2,49158558.0
+Nonresidential COS,Large Office,Office,6,32604981.833333332
+NonResidential,Other,Laboratory,8,29658238.625
+NonResidential,Mixed Use Property,Other - Entertainment/Public Assembly,5,28225351.85
+NonResidential,Laboratory,Laboratory,10,26293127.6
+NonResidential,Other,Urgent Care/Clinic/Other Outpatient,8,25579517.78125
+NonResidential,Mixed Use Property,Parking,21,24540583.44047619
+Campus,Mixed Use Property,Parking,2,22347270.0
+NonResidential,Mixed Use Property,Laboratory,3,20158212.5
+NonResidential,Other,Lifestyle Center,4,19549465.75
+NonResidential,Large Office,Office,312,16981498.30408654
+NonResidential,Supermarket/Grocery Store,Wholesale Club/Supercenter,1,13424079.0
+NonResidential,Mixed Use Property,Restaurant,3,13248962.333333334
+NonResidential,Other,Wholesale Club/Supercenter,1,13146645.0
+Nonresidential COS,Other,Police Station,2,12069300.0
+NonResidential,Medical Office,Medical Office,69,12032393.507246377
+NonResidential,Senior Care Community,Senior Care Community,39,11706779.474358974
+NonResidential,Hotel,Hotel,137,11702321.076186132
+SPS-District K-12,Other,Other,4,11199824.3125
+Nonresidential COS,Other,Other - Entertainment/Public Assembly,6,11031106.708333334
+NonResidential,Other,Other - Entertainment/Public Assembly,30,10910207.33125
+NonResidential,Other,Strip Mall,10,10010254.125
+NonResidential,Supermarket/Grocery Store,Supermarket/Grocery Store,73,9949461.868150685
+Campus,Mixed Use Property,Retail Store,4,9619526.875
+NonResidential,Mixed Use Property,Hotel,2,9102583.0
+NonResidential,Other,Other,118,8529090.316873727
+NonResidential,Mixed Use Property,Medical Office,4,8309350.625
+NonResidential,Restaurant,Other - Restaurant/Bar,1,7798464.0
+NonResidential,Other,Parking,29,7606681.0625
+NonResidential,Other,Other - Education,3,7470286.666666667
+NonResidential,Other,Other - Recreation,20,7270296.09375
+Nonresidential COS,Other,Other,38,7104916.981907895
+NonResidential,Mixed Use Property,Residence Hall/Dormitory,2,7079691.0
+NonResidential,University,College/University,15,7059030.779173333
+Campus,Restaurant,Restaurant,2,6952584.5
+NonResidential,Other,Other/Specialty Hospital,6,6792390.25
+Nonresidential COS,Other,Museum,4,6701365.25
+NonResidential,Other,Fitness Center/Health Club/Gym,6,6637587.583333333
+NonResidential,Other,Other - Mall,4,6636162.0
+NonResidential,College/University,College/University,15,6487457.6
+Nonresidential COS,Mixed Use Property,Office,4,6418248.0
+NonResidential,Mixed Use Property,Other - Restaurant/Bar,3,5981473.833333333
+NonResidential,Mixed Use Property,Multifamily Housing,18,5638381.465305556
+Nonresidential COS,Small- and Mid-Sized Office,Office,8,5503824.625
+Nonresidential COS,Other,Other - Utility,2,5435818.0
+NonResidential,Other,Museum,6,5421347.75
+NonResidential,Restaurant,Restaurant,17,5398989.44117647
+Nonresidential COS,Other,Library,8,5375406.578125
+NonResidential,Retail Store,Retail Store,168,5231534.416481547
+Nonresidential COS,Other,Other - Recreation,16,5190925.25
+Nonresidential COS,Distribution Center,Distribution Center,4,5089065.25
+Nonresidential COS,Other,"Repair Services (Vehicle, Shoe, Locksmith, etc)",3,4992173.4375
+NonResidential,Mixed Use Property,Social/Meeting Hall,4,4955803.375
+NonResidential,Mixed Use Property,Other,18,4602376.067711111
+NonResidential,Mixed Use Property,Office,56,4367232.176339285
+NonResidential,Other,Other - Public Services,4,4093610.1875
+Campus,Low-Rise Multifamily,Multifamily Housing,2,3821063.5
+NonResidential,Refrigerated Warehouse,Refrigerated Warehouse,24,3665474.9140625
+SPS-District K-12,K-12 School,K-12 School,95,3596305.944736842
+Nonresidential COS,Other,Other - Services,4,3387002.125
+Campus,K-12 School,K-12 School,8,3269735.671875
+NonResidential,Retail Store,Other,1,3241917.0
+Nonresidential COS,Other,Fire Station,2,3155917.5
+Nonresidential COS,Other,Adult Education,1,3105001.0
+Campus,Other,Adult Education,1,3091387.5
+Nonresidential COS,Non-Refrigerated Warehouse,Non-Refrigerated Warehouse,6,2980205.3333333335
+NonResidential,Other,Financial Office,7,2966429.7321428573
+Nonresidential COS,Warehouse,Non-Refrigerated Warehouse,6,2881136.4895833335
+NonResidential,Other,Movie Theater,2,2815514.375
+NonResidential,Mixed Use Property,Fitness Center/Health Club/Gym,1,2662054.25
+NonResidential,Small- and Mid-Sized Office,Office,540,2511127.794793889
+NonResidential,Mixed Use Property,Supermarket/Grocery Store,4,2503567.52345
+Nonresidential COS,Mixed Use Property,Fitness Center/Health Club/Gym,2,2489834.875
+NonResidential,Other,"Personal Services (Health/Beauty, Dry Cleaning, etc)",2,2359768.0
+NonResidential,Mixed Use Property,Non-Refrigerated Warehouse,22,2294056.0326727275
+NonResidential,K-12 School,K-12 School,75,2245636.1058333335
+Nonresidential COS,Other,Performing Arts,2,2235208.5
+NonResidential,Residence Hall,Residence Hall/Dormitory,15,2215639.1958333333
+NonResidential,Distribution Center,Distribution Center,96,2201458.0429739584
+NonResidential,Residence Hall/Dormitory,Residence Hall/Dormitory,15,2197124.0
+Nonresidential COS,Medical Office,Medical Office,2,2096222.875
+Campus,Other,Manufacturing/Industrial Plant,2,2086772.75
+Nonresidential COS,Mixed Use Property,Other - Recreation,2,2031222.5
+NonResidential,Mixed Use Property,Other - Education,4,2016523.53125
+NonResidential,Mixed Use Property,Strip Mall,2,1977844.875
+NonResidential,Other,Manufacturing/Industrial Plant,11,1951835.8153454547
+NonResidential,Mixed Use Property,Retail Store,14,1903051.555807143
+NonResidential,Other,Other - Lodging/Residential,10,1886005.2125
+NonResidential,Warehouse,Non-Refrigerated Warehouse,170,1872509.8200906476
+NonResidential,Other,Social/Meeting Hall,16,1840904.9707375
+NonResidential,Other,Automobile Dealership,10,1798411.5875
+Nonresidential COS,Other,Residential Care Facility,2,1797402.25
+NonResidential,Other,Other - Utility,2,1778103.0
+NonResidential,Non-Refrigerated Warehouse,Non-Refrigerated Warehouse,169,1633213.6804733728
+NonResidential,Other,Other - Services,6,1591544.3997333336
+NonResidential,Other,Bank Branch,6,1479987.0208333333
+NonResidential,Other,Pre-school/Daycare,2,1403693.4375
+NonResidential,Other,Adult Education,2,1378051.375
+NonResidential,Other,"Repair Services (Vehicle, Shoe, Locksmith, etc)",8,1248499.1445375
+NonResidential,Worship Facility,Worship Facility,138,1201243.6770847824
+NonResidential,Mixed Use Property,Distribution Center,2,1187626.8125
+NonResidential,Mixed Use Property,Bank Branch,2,1130191.0625
+NonResidential,Low-Rise Multifamily,Multifamily Housing,2,1045516.25
+NonResidential,Other,Performing Arts,2,837487.5625
+NonResidential,Self-Storage Facility,Self-Storage Facility,54,742306.4928381483
+NonResidential,Other,Food Service,2,283252.25
