@@ -1,8 +1,15 @@
 # Project specific .gitignore
 .idea/
+*.zip
+*.lnk
+*.xlsx
+# python file to add table of contents (toc) to jupyter notebook
+add_toc.py
+# table of contents as text file
+*.ipynb.txt  
 
 # temporary disable output images
-/images/ 
+images/ 
 
 # -----------------------------------------
 # Standard python .gitignore below
