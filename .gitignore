@@ -5,6 +5,7 @@
 *.xlsx
 # put any (temporary) files to ignore in ignore directory
 ignore/
+.vscode/
 
 # python file to add table of contents (toc) to jupyter notebook
 add_toc.py
