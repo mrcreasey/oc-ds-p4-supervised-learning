@@ -19,7 +19,6 @@ The aim of this project is to:
 
 ### Conclusion
 
-- energy consumption is non-linear : best models are non-linear.
 - Log transformation of X and Y variables was needed to reduce the influence of outliers (hospitals
   and data centers)
 - Binning, simplification and one-hot encoding of categorical variables improved the performance of
@@ -59,10 +58,16 @@ site <https://www.kaggle.com/datasets/city-of-seattle/sea-building-energy-benchm
 
 ## Files
 
-- [Pélec_01_notebook.ipynb](./Pélec_01_notebook.ipynb): Data cleaning and exploratory analysis
-- [Pélec_02_code.ipynb](./Pélec_02_code.ipynb): Feature engineering, modelling, hyperparameter
-  tuning, cross-validation
-- [Pélec_03_support.pdf](./Pélec_03_support.ipynb) Presentation and conclusion
+_Note:_ Files are in French. _Custom functions created in this project for data preprocessing,
+statistical analysis and data visualisation are encapsulated within each notebook, to avoid
+importing and versioning custom libraries. Open https://nbviewer.org/ and paste notebook GitHub url
+if GitHub takes too long to render._
+
+- [Pélec_01_notebook.ipynb](./Pélec_01_notebook.ipynb)<a href="https://colab.research.google.com/github/mrcreasey/oc-ds-p4-supervised-learning/blob/main/Pélec_01_notebook.ipynb" target="blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab"/></a>
+  : Data cleaning and exploratory analysis
+- [Pélec_02_code.ipynb](./Pélec_02_code.ipynb)<a href="https://colab.research.google.com/github/mrcreasey/oc-ds-p4-supervised-learning/blob/main/Pélec_02_code.ipynb" target="blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab"/></a>
+  : Feature engineering, modelling, hyperparameter tuning, cross-validation
+- [Pélec_03_support.pdf](./Pélec_03_support.pdf) : Presentation and conclusion
 
 ## Approach
 
