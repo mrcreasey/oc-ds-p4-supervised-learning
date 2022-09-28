@@ -17,19 +17,6 @@ The aim of this project is to:
   [ENERGY STAR Score](https://www.energystar.gov/buildings/facility-owners-and-managers/existing-buildings/use-portfolio-manager/interpret-your-results/what)
   for the prediction of emissions**.
 
-### Conclusion
-
-- Log transformation of X and Y variables was needed to reduce the influence of outliers (hospitals
-  and data centers)
-- Binning, simplification and one-hot encoding of categorical variables improved the performance of
-  the model.
-- The best performance overall was using Kernel Ridge regression
-- Residual analysis showed that the energy consumption of hospitals and data centers tends to be
-  under-estimated by the model
-- The ENERGY STAR Score reduced the performance on total energy consumption prediction, having no
-  impact on total CO2 emissions: The property usage type and age of construction were more important
-  features.
-
 ## Motivation
 
 This is project 4 for the **Master in Data Science** (in French, BAC+5) from OpenClassrooms. The
@@ -63,18 +50,21 @@ statistical analysis and data visualisation are encapsulated within each noteboo
 importing and versioning custom libraries. Open https://nbviewer.org/ and paste notebook GitHub url
 if GitHub takes too long to render._
 
-- [Pélec_01_notebook.ipynb](./Pélec_01_notebook.ipynb)<a href="https://colab.research.google.com/github/mrcreasey/oc-ds-p4-supervised-learning/blob/main/Pélec_01_notebook.ipynb" target="blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab"/></a>
-  : Data cleaning and exploratory analysis
-- [Pélec_02_code.ipynb](./Pélec_02_code.ipynb)<a href="https://colab.research.google.com/github/mrcreasey/oc-ds-p4-supervised-learning/blob/main/Pélec_02_code.ipynb" target="blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab"/></a>
-  : Feature engineering, modelling, hyperparameter tuning, cross-validation
+- [Pélec_01_notebook.ipynb](./Pélec_01_notebook.ipynb): Data cleaning and exploratory analysis
+<a href="https://colab.research.google.com/github/mrcreasey/oc-ds-p4-supervised-learning/blob/main/Pélec_01_notebook.ipynb" target="blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab"/></a>
+  
+- [Pélec_02_code.ipynb](./Pélec_02_code.ipynb): Feature engineering, modelling, hyperparameter tuning, cross-validation
+<a href="https://colab.research.google.com/github/mrcreasey/oc-ds-p4-supervised-learning/blob/main/Pélec_02_code.ipynb" target="blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab"/></a>
+  
 - [Pélec_03_support.pdf](./Pélec_03_support.pdf) : Presentation and conclusion
 
 ## Approach
 
 ### Data cleaning
 
-- data merge, elimination of non-compliant/missing data, selection of target columns and only
-  features available for new buildings; correction of whitespace, formatting
+- data merge, elimination of non-compliant/missing data
+- selection of target columns and only features available for new buildings
+- correction of whitespace, standardise formatting (upper/lower case)
 
 ### Data exploration and Feature Engineering
 
@@ -112,6 +102,19 @@ For this set of data, the best performing model was Kernel Ridge (non-linear):
 - Faster than ensemble methods
 - Learning curves show training of this model may not be scalable above 3000 buildings.
 - Residuals analysis show under estimation for hospitals and data centers
+
+### Conclusion
+
+- Log transformation of X and Y variables was needed to reduce the influence of outliers (hospitals
+  and data centers)
+- Binning, simplification and one-hot encoding of categorical variables improved the performance of
+  the model.
+- The best performance overall was using Kernel Ridge regression
+- Residual analysis showed that the energy consumption of hospitals and data centers tends to be
+  under-estimated by the model
+- The ENERGY STAR Score reduced the performance on total energy consumption prediction, having no
+  impact on total CO2 emissions: The property usage type and age of construction were more important
+  features.
 
 ### Suggestions for Improvement
 
